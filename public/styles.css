@@ -1,0 +1,8 @@
+.post {
+    margin-bottom: 2rem;
+}
+.post .title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
